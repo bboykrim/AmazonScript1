@@ -1,0 +1,18 @@
+1651093572607	geckodriver	INFO	Listening on 127.0.0.1:55001
+1651093575660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bboyk\\AppData\\Local\\Temp\\rust_mozprofilex4Vevj"
+1651093575885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bboyk\\AppData\\Local\\Temp\\rust_mozprofilex4Vevj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55002/devtools/browser/4391d0d9-a5a4-4e7d-bff4-49e72a279faf
+1651093577482	Marionette	INFO	Listening on port 55029
+Read port: 55029
+1651093577530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/ line 2171 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss line 8593 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/BEZGAR-Remote-Control-Car-%EF%BC%8CElectric/dp/B097GLLF7G/ref=sr_1_1_sspa?keywords=Ferrari+458&qid=1651093579&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExM1pOUVdaM0lBVTg1JmVuY3J5cHRlZElkPUEwMjc4OTcyMklGVEdRWEU0NTQwVyZlbmNyeXB0ZWRBZElkPUEwOTc4MTI4UUZEMTg4SThQWUImd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl line 9652 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651093585274	Marionette	INFO	Stopped listening on port 55029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
