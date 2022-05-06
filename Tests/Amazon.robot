@@ -17,6 +17,7 @@ User must sign in to check out
     #click button    css=#nav-search-submit-button
     #get list items      ${values} =
     go to    http://www.amazon.com
+     Test    aaa
     click image    Headsets
 
     sleep    3s
