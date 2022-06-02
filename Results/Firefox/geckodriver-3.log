@@ -1,0 +1,16 @@
+1653337710775	geckodriver	INFO	Listening on 127.0.0.1:49490
+1653337713815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bboyk\\AppData\\Local\\Temp\\rust_mozprofileFlluCB"
+1653337714143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bboyk\\AppData\\Local\\Temp\\rust_mozprofileFlluCB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49491/devtools/browser/9a1a9cad-5a38-4b09-8f32-bfc34765e037
+1653337715405	Marionette	INFO	Listening on port 49514
+Read port: 49514
+1653337715488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/ line 1917 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss line 5094 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/RASTAR-Ferrari-Remote-Control-Italia/dp/B06ZZLKDL9/ref=sr_1_1_sspa?keywords=Ferrari+458&qid=1653337717&sr=8-1-spons&psc=1&smid=A1R4D2F6SP46BT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUVVBEOFBRU0FVQ0gmZW5jcnlwdGVkSWQ9QTA4Mjg3MjgzNlhTQlBaWVM3MkkwJmVuY3J5cHRlZEFkSWQ9QTAyODc4MzUyQjJYRk01NzBVQTJDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== line 9486 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ line 1864 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=gaming+headsets&pd_rd_r=70a17231-cec3-4881-9207-28b5dc35048b&pd_rd_w=KuJH9&pd_rd_wg=vCV8J&pf_rd_p=12129333-2117-4490-9c17-6d31baf0582a&pf_rd_r=HJ48MCAGGC39N73RGZQB&ref=pd_gw_unk line 8100 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653337739087	Marionette	INFO	Stopped listening on port 49514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

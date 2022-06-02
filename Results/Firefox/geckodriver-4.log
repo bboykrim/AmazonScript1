@@ -1,0 +1,14 @@
+1654204600270	geckodriver	INFO	Listening on 127.0.0.1:61281
+1654204603333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bboyk\\AppData\\Local\\Temp\\rust_mozprofileUq9yq7"
+1654204603675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bboyk\\AppData\\Local\\Temp\\rust_mozprofileUq9yq7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61282/devtools/browser/68ff196c-d64a-47cc-a1c9-932538c3e1bb
+1654204604871	Marionette	INFO	Listening on port 61304
+Read port: 61304
+1654204604983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/ line 1874 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss line 5207 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/RASTAR-Ferrari-Remote-Control-Italia/dp/B06ZZLKDL9/ref=sr_1_1_sspa?keywords=Ferrari+458&qid=1654204605&sr=8-1-spons&psc=1&smid=A1R4D2F6SP46BT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUFpFNTdUUElBTVdXJmVuY3J5cHRlZElkPUEwMjU0MzM0MVJNMEpKQVVNUllHUyZlbmNyeXB0ZWRBZElkPUExMDA1MTgzUUVPREY0VlBXTzBOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== line 9491 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ line 1907 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=gaming+headsets&pd_rd_r=74b5e2c9-5f9f-4c2d-bfed-a015e9aff7dd&pd_rd_w=Y0XLj&pd_rd_wg=OwdC5&pf_rd_p=12129333-2117-4490-9c17-6d31baf0582a&pf_rd_r=6ZRYXTCD6XT789ZNEHFX&ref=pd_gw_unk line 8695 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
